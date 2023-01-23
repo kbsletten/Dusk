@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "target": "es5",
+    "allowJs": true,
+    "jsx": "react",
+    "resolveJsonModule": true
+  },
+  "files": [
+    "src/index.tsx",
+    "src/server.ts",
+    "./src/clients/Patch.ts",
+    "src/components/crew-editor.tsx"
+  ]
+}

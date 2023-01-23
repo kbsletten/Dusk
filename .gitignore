@@ -1,0 +1,5 @@
+src/config.json
+bin/
+dist/
+node_modules/
+*.sqlite3
